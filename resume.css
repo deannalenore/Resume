@@ -1,0 +1,17 @@
+
+body{
+    background-color:#708090
+    
+    
+}
+
+h1, h2, h3, p, ul{
+    font-family: 'Quicksand', sans-serif;
+    color: #fff5ee
+
+}
+
+p, ul{
+    margin: 50px, 50px, 50px, 50px;
+    padding: 50px, 50px, 50px, 50px;
+}
